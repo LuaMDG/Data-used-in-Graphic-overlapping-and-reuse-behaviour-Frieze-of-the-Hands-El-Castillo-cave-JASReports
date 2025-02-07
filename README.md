@@ -1,1 +1,2 @@
 # Data-used-in-Graphic-overlapping-and-reuse-behaviour-Frieze-of-the-Hands-El-Castillo-cave-JASReports
+This repository contains the Harris Matrix, the data obtained from the study of the graphic units as well as the original photographs of Figure 9 associated with the paper: Díaz-González, L.M., Garate Maidagan, D. 2025. Revisiting Palaeolithic rock art. Reading the graphic overlapping in terms of reuse behaviours in the Frieze of the Hands from the El Castillo cave (Cantabria, Spain). Journal of Archaeological Science Reports.
